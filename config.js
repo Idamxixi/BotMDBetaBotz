@@ -6,26 +6,26 @@ global.thum = "https://telegra.ph/file/7188012d573871aaf4fa0.jpg"
 global.log0 = fs.readFileSync("./media/images.jpg")
 global.thumb = fs.readFileSync("./media/images.jpg")
 global.err4r = "https://telegra.ph/file/7188012d573871aaf4fa0.jpg"
-global.owner = ['6285822347348','6285822347348','6285822347348']
+global.owner = ['6285691890852','6285691890852','6285691890852']
 global.lolhuman = "RelzzAPIs"
 global.rkyt = []
 global.banUser = ['']
 global.ntilink = ['120363042526543638@g.us','120363024920013325@g.us','120363039329527308@g.us','120363040599533141@g.us','120363023278327109@g.us','120363022782381398@g.us']
 global.wlcm = ['120363042526543638@g.us','120363024920013325@g.us','120363039329527308@g.us','120363040599533141@g.us','120363023278327109@g.us','120363022782381398@g.us']
 global.gcrevoke = ['']
-global.packname = "© ArullOfc"
-global.packname2 = "ArullBotzMD"
-global.author = "ArullOfc"
+global.packname = "© 𝚞𝚕𝚝𝚛𝚊𝚖𝚊𝚗𝚋𝚘𝚝𝚣"
+global.packname2 = "ᵒʷⁿᵉʳ ᵘˡᵗʳᵃᵐᵃⁿᵇᵒᵗᶻ"
+global.author = "ｉｄａｍｘｉｘｉ"
 global.sessionName = "session"
-global.namebot = "ArullBotzMD"
-global.linkgrupss = "https://chat.whatsapp.com/LDN0EeJfASs0lbUhJsOJu1"
-global.antitags = ['6281348735630@s.whatsapp.net']
+global.namebot = "𝚞𝚕𝚝𝚛𝚊𝚖𝚊𝚗𝚋𝚘𝚝𝚣"
+global.linkgrupss = "https://chat.whatsapp.com/EHByam2PJGiKrSclraOftK"
+global.antitags = ['6285691890852@s.whatsapp.net']
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.mess = {
     success: '*Success!*',
     admin: '*Fitur Khusus Admin Group Cuy!*',
     botAdmin: '*Bot Aja Bukan Admin Anj‼️*',
-    owner: '*Fitur Khusus ArullOfc*',
+    owner: '*Fitur Khusus ｉｄａｍｘｉｘｉ*',
     group: '*Fitur Digunakan Hanya Untuk Group!*',
     private: '*Fitur Digunakan Hanya Untuk Private Chat!*',
     bot: '*Fitur Khusus Pengguna Nomor Bot*',
